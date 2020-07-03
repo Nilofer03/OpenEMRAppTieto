@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 54.304 s <<< FAILURE! - in TestSuite
+com.tieto.test.LoginTest.invalidCredentialTest  Time elapsed: 5.984 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Method public void com.tieto.test.LoginTest.invalidCredentialTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String) requires a @DataProvider named : invalidCredentialData
+
+com.tieto.test.LoginTest.invalidCredentialTest  Time elapsed: 5.932 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Method public void com.tieto.test.LoginTest.invalidCredentialTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String) requires a @DataProvider named : invalidCredentialData
+
